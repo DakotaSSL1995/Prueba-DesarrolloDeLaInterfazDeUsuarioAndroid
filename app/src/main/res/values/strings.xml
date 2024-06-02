@@ -8,6 +8,8 @@
     <string name="Texto1">La contraseña debe tener al menos 5 caracteres y una letra mayuscula</string>
     <string name="casilla">Escribe una contraseña</string>
     <string name="recomendaciones">
+        Soy un texto de prueba :v \n\n
+
         Recuerda que para que la contraseña sea segura debe cumplir con estas características:\n\n
 
         > Al menos 5 caracteres.\n\n
