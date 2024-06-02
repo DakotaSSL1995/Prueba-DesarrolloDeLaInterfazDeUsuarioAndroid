@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Desafio3</string>
+    <string name="action_settings">Configuración</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Validador de contraseñas</string>
+    <string name="second_fragment_label">Resultado</string>
+    <string name="next">VALIDAR CONTRASEÑA</string>
+    <string name="Texto1">La contraseña debe tener al menos 5 caracteres y una letra mayuscula</string>
+    <string name="casilla">Escribe una contraseña</string>
+    <string name="recomendaciones">
+        Recuerda que para que la contraseña sea segura debe cumplir con estas características:\n\n
+
+        > Al menos 5 caracteres.\n\n
+        > Al menos 1 letra mayúscula.\n\n\n\n
+        Otras características que hacen la contraseña más segura\n\n
+        > Al menos 1 caracter especial (como . , % $)\n\n
+        > Al menos 1 número\n\n
+    </string>
+</resources>
